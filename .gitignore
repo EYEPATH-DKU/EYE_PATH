@@ -1,0 +1,20 @@
+/object_detect/mnt
+/object_detect/result_bounding_box
+/object_detect/result_surface
+/object_detect/runs
+/object_detect/src
+/collision_predict/png files
+/collision_predict/mpp
+/collision_predict/mp4
+
+
+/collision_predict/*.pt
+/collision_predict/*.mp4
+/collision_predict/output*
+/collision_predict/src/images
+/collision_predict/src/videos
+/collision_predict/src/last.pt
+
+*.csv
+*.pt
+*.mp4
