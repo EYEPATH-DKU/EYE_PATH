@@ -2,7 +2,6 @@
 /object_detect/result_bounding_box
 /object_detect/result_surface
 /object_detect/runs
-/object_detect/src
 /collision_predict/png files
 /collision_predict/mpp
 /collision_predict/mp4
